@@ -1,0 +1,86 @@
+solid stl_item0
+  facet normal 1 0 0
+    outer loop
+      vertex 49 -50 5
+      vertex 49 -50 0
+      vertex 49 70 0
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 49 -50 5
+      vertex 49 70 0
+      vertex 49 70 5
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 49 70 5
+      vertex -71 70 5
+      vertex -71 -50 5
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 49 70 5
+      vertex -71 -50 5
+      vertex 49 -50 5
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -71 70 5
+      vertex -71 70 0
+      vertex -71 -50 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -71 70 5
+      vertex -71 -50 0
+      vertex -71 -50 5
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 49 70 5
+      vertex 49 70 0
+      vertex -71 70 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 49 70 5
+      vertex -71 70 0
+      vertex -71 70 5
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -71 -50 5
+      vertex -71 -50 0
+      vertex 49 -50 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -71 -50 5
+      vertex 49 -50 0
+      vertex 49 -50 5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 49 -50 0
+      vertex -71 -50 0
+      vertex -71 70 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 49 -50 0
+      vertex -71 70 0
+      vertex 49 70 0
+    endloop
+  endfacet
+endsolid stl_item0
